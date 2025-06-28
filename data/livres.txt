@@ -1,0 +1,10 @@
+1;L'Étranger;Albert Camus;Roman;1942;emprunte
+2;Le Petit Prince;Antoine de Saint-Exupéry;Conte;1943;disponible
+3;Les Misérables;Victor Hugo;Roman historique;1862;disponible
+4;La Peste;Albert Camus;Roman philosophique;1947;disponible
+5;Germinal;Émile Zola;Roman social;1885;disponible
+6;Assommoir;Émile Zola;Roman naturaliste;1877;disponible
+7;Madame Bovary;Gustave Flaubert;Roman réaliste;1857;disponible
+8;1984;George Orwell;Dystopie;1949;disponible
+9;Le Comte de Monte-Cristo;Alexandre Dumas;Aventure;1844;disponible
+10;Et si c'était vrai;Marc Levy;Romance fantastique;2000;disponible
