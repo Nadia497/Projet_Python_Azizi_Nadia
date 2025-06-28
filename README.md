@@ -11,6 +11,7 @@ Ce projet est une application complète de gestion de bibliothèque développée
 ```bash
 git clone https://github.com/Nadia497/Projet_Python_Azizi_Nadia
 cd Projet_Python_Azizi_Nadia
+code .
 ```
 
 ## ▶ Exemple d'utilisation
